@@ -1,4 +1,4 @@
-# Defect-in-Steel-Sheet-Detection
+# Steel-Sheet-Defect-Detection
  
 Steel is one of the most important building materials of modern times. Steel buildings are resistant to natural and man-made wear which has made the material ubiquitous around the world. To help make production of steel more efficient, this competition will help identify defects.
 
@@ -16,7 +16,7 @@ file description
 
 This project aims at developing an algorithm for localizing and classifying surface defects on a steel sheet.
 
-Computer Vision has been used to identify, localize and mark boundary around the defect part soa s to take required decisions by engineers using it.
+Computer Vision has been used to identify, localize and mark boundary around the defect part so as to take required decisions by engineers using it.
 
 
 
